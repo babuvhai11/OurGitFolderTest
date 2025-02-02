@@ -6,6 +6,7 @@ public class abcdef {
 		System.out.println("A");
 		System.out.println("D");
 		System.out.println("X");
+		System.out.println("Y");
 	}
 
 }
